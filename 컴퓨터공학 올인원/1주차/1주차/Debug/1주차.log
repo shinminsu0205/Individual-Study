@@ -1,0 +1,6 @@
+﻿  test.c
+c:\users\kyle0\desktop\git\individual-study\컴퓨터공학 올인원\1주차\1주차\test.c(5): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kyle0\desktop\git\individual-study\컴퓨터공학 올인원\1주차\1주차\test.c(7): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\kyle0\desktop\git\individual-study\컴퓨터공학 올인원\1주차\1주차\test.c(7): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\kyle0\desktop\git\individual-study\컴퓨터공학 올인원\1주차\1주차\test.c(7): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  1주차.vcxproj -> C:\Users\kyle0\Desktop\Git\Individual-Study\컴퓨터공학 올인원\1주차\Debug\1주차.exe
